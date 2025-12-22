@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/responsive-qr-code-card-built-using-semantic-html-yr-XH-HI7c)
+- Live Site URL: (https://qrcode-component-proj.netlify.app/)
 
 ## My process
 
